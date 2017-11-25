@@ -50,7 +50,7 @@ https://www.raspberrypi.org/documentation/installation/installing-images/mac.md
 3. `sudo apt-get install vim`
 4. `sudo apt-get install python-pip`
 5. `sudo pip install flask`
-6. `pip install flask-restful`
+6. `sudo pip install flask-restful`
 7. `sudo apt-get install python-dev python-rpi.gpio`
 
 
